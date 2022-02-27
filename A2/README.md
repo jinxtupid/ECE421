@@ -1,1 +1,1 @@
-A2
+# ECE421 Programming Assignment 2
